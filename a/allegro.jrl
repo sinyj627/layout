@@ -1,0 +1,17 @@
+\t (00:00:14) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:00:14)     Journal start - Wed Jul 17 14:43:40 2019
+\t (00:00:14)         Host=DESKTOP-0CCQGI6 User=user Pid=4356 CPUs=4
+\t (00:00:14) CmdLine= allegro.exe -p .
+\t (00:00:14) 
+\d (00:00:14) Design opened: C:/Users/user/Desktop/Sample/a/demoa2.brd
+\i (00:00:14) generaledit 
+\i (00:00:15) zoom out 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom out 1782.4 848.0
+\i (00:00:15) trapsize 181
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in 1442.4 848.1
+\i (00:00:16) trapsize 90
+\i (00:00:19) exit 
+\t (00:00:19)     Journal end - Wed Jul 17 14:43:46 2019
